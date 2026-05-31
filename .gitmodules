@@ -1,0 +1,9 @@
+[submodule "db"]
+	path = db
+	url = https://github.com/duganbrettc/cascade-xclone-v34o4-db.git
+[submodule "api"]
+	path = api
+	url = https://github.com/duganbrettc/cascade-xclone-v34o4-api.git
+[submodule "web"]
+	path = web
+	url = https://github.com/duganbrettc/cascade-xclone-v34o4-web.git
